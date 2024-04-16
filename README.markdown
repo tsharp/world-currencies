@@ -12,3 +12,5 @@ For any pieces of information we have tried to scan and input those from wikiped
 
 Feel free to create an issue OR submit any pull requests or patches for updating any of the information. 
 
+## Currencies ALT is useful for using in api's
+https://gist.github.com/simibac/db4ad8da20d4173a0f2d7fb4967a3e9f
